@@ -1,8 +1,8 @@
----
-
 # Taskify - Your Ultimate To-Do List App
 
 **Taskify** is a simple yet powerful To-Do list application designed to help you stay organized, focused, and efficient. Whether you’re managing daily tasks, work assignments, or personal goals, Taskify makes task management effortless and enjoyable. With an intuitive user interface and full-stack capabilities, Taskify is your companion in making sure nothing gets missed.
+
+---
 
 ---
 
