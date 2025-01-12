@@ -4,8 +4,6 @@
 
 ---
 
----
-
 ### 🚀 **Live Demo**
 
 Experience Taskify in action!  
@@ -65,18 +63,6 @@ To run this project locally, follow these steps:
      ```
 
 5. Open your browser and navigate to `http://localhost:3000/` to view the app.
-
----
-
-### 🌱 **Contributions**
-
-Feel free to fork, submit issues, or make pull requests. We welcome contributions from developers of all skill levels.
-
----
-
-### 📑 **License**
-
-This project is licensed under the MIT License.
 
 ---
 
