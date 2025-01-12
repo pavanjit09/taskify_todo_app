@@ -23,7 +23,7 @@ Experience Taskify in action!
 ### 💻 **Tech Stack**
 
 - **Frontend**: React.js, Tailwind CSS  
-- **Backend**: Express.js  
+- **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **Deployment**: Render
 
