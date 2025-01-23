@@ -14,7 +14,7 @@ Experience Taskify in action!
 ### 📋 **Features**
 
 - **Create Tasks**: Easily add tasks with titles, descriptions, and deadlines.
-- **Edit & Delete**: Modify or remove tasks with just a click.
+- **Delete**: Remove tasks with just a click.
 - **Mark as Complete**: Check off completed tasks and get a sense of accomplishment.
 - **Responsive Design**: Works perfectly on both desktop and mobile devices.
 
